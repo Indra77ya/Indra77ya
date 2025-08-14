@@ -1,47 +1,28 @@
-# Indra Nur Utomo
+<h1 align="center">Hi 👋, I'm Indra Nur Utomo</h1>
+<h3 align="center">A passionate full‑stack developer from Indonesia, mastering both frontend and backend, with hands‑on server expertise.</h3>
 
-### Backend Developer & Data Enthusiast
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=indra77ya&label=Profile%20views&color=0e75b6&style=flat" alt="indra77ya" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indra77ya" alt="indra77ya" /></a> </p>
 
-Halo! 👋 Selamat datang di profil GitHub saya. Saya Indra Nur Utomo, seorang pengembang perangkat lunak yang berfokus pada pengembangan **backend** dan tertarik pada dunia **data**.
+- 🔭 I’m currently working on **Muraba Coach**
 
-Saya percaya bahwa kode yang baik adalah kode yang bersih, mudah dipelihara, dan efisien. Di sini, Anda akan menemukan berbagai proyek pribadi saya, dari studi kasus sederhana hingga aplikasi yang lebih kompleks.
+- 🌱 I’m currently learning **laravel**
 
-## 🛠️ Keahlian & Teknologi
+- 📫 How to reach me **Indra77ya@gmail.com**
 
-Berikut adalah beberapa bahasa pemrograman, *framework*, dan alat yang sering saya gunakan:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/indra-nur-utomo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/indra-nur-utomo" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/indranutomo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/indranutomo/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/indra_n_utomo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/indra_n_utomo/" height="30" width="40" /></a>
+</p>
 
-* **Bahasa Pemrograman:** Python, Go, JavaScript
-* **Backend Frameworks:** Django, Flask, Express.js
-* **Database:** PostgreSQL, MySQL, MongoDB, Redis
-* **DevOps & Tools:** Docker, Git, CI/CD
-* **Data & Analitik:** SQL, Pandas, NumPy, Jupyter Notebook
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> </p>
 
-## 🚀 Proyek Pilihan
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indra77ya&show_icons=true&locale=en&layout=compact" alt="indra77ya" /></p>
 
-Berikut adalah beberapa proyek yang saya banggakan. Anda bisa mengklik tautan di bawah ini untuk melihat detail lebih lanjut.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indra77ya&show_icons=true&locale=en" alt="indra77ya" /></p>
 
-* **[Nama Proyek 1]:** Penjelasan singkat tentang proyek ini. Misalnya: "Aplikasi e-commerce sederhana yang dibangun dengan Django REST Framework dan PostgreSQL."
-* **[Nama Proyek 2]:** Penjelasan singkat tentang proyek ini. Misalnya: "Analisis sentimen dari ulasan produk menggunakan Python dan Natural Language Processing (NLP)."
-* **[Nama Proyek 3]:** Penjelasan singkat tentang proyek ini. Misalnya: "Sebuah *microservice* untuk otentikasi pengguna menggunakan Go dan Redis."
-
-## 🌱 Saat Ini Saya Sedang Belajar
-
-Saya selalu ingin belajar dan tumbuh. Saat ini, saya sedang mendalami:
-
-* Arsitektur **Microservices**
-* Penggunaan **Kubernetes** untuk orkestrasi container
-* **Machine Learning** dan penerapannya dalam proyek nyata
-
-## 📫 Hubungi Saya
-
-Mari terhubung dan berdiskusi! Anda bisa menghubungi saya melalui:
-
-* **LinkedIn:** [https://www.linkedin.com/in/indra-nur-utomo](https://www.linkedin.com/in/indra-nur-utomo)
-* **Email:** indranurutomo@email.com
-* **Website/Blog:** [https://www.indranurutomo.dev](https://www.indranurutomo.dev)
-
----
-
-Terima kasih sudah berkunjung!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indra77ya&" alt="indra77ya" /></p>
