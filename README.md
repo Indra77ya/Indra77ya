@@ -11,8 +11,8 @@
   </a>
 </p>
 
-- 🔭 Saat ini saya sedang mengerjakan **Muraba Coach**  
-- 🌱 Saat ini saya sedang mempelajari **Laravel**  
+- 🔭 Saat ini saya sedang mengerjakan **Tidak Ada**  
+- 🌱 Saat ini saya sedang mempelajari **Kehidupan**  
 - 📫 Hubungi saya di **Indra77ya@gmail.com**  
 
 <h3 align="left">Terhubung dengan saya:</h3>
