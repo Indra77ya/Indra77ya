@@ -1,4 +1,4 @@
-<h1 align="center">Halo 👋, saya Indra Nur Utomo</h1>
+<h1 align="center">Halo 👋, Saya Indra Nur Utomo</h1>
 <h3 align="center">Sedang cari apa kamu?.</h3>
 
 <p align="left">
@@ -52,9 +52,3 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
   <a href="https://symfony.com" target="_blank" rel="noreferrer"><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indra77ya&show_icons=true&locale=en&layout=compact" alt="Statistik bahasa pemrograman Indra" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indra77ya&show_icons=true&locale=en" alt="Statistik GitHub Indra" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indra77ya&" alt="
