@@ -7,7 +7,7 @@
   </a>
 </p>
 
-- 🔭 Saat ini saya sedang mengerjakan **Tidak Ada**  
+- 🔭 Saat ini saya sedang mengerjakan **Website untuk media pembelajaran anak-anak**  
 - 🌱 Saat ini saya sedang mempelajari **Kehidupan**  
 - 📫 Hubungi saya di **Indra77ya@gmail.com**  
 
