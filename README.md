@@ -1,9 +1,5 @@
 <h1 align="center">Halo 👋, saya Indra Nur Utomo</h1>
-<h3 align="center">Seorang pengembang full‑stack yang penuh semangat dari Indonesia, menguasai frontend dan backend, serta berpengalaman langsung dalam pengelolaan server.</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=indra77ya&label=Jumlah%20Kunjungan%20Profil&color=0e75b6&style=flat" alt="indra77ya" />
-</p>
+<h3 align="center">Sedang cari apa kamu?.</h3>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
