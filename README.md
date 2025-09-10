@@ -1,5 +1,5 @@
 <h1 align="center">Halo 👋, Saya Indra Nur Utomo</h1>
-<h3 align="center">Sedang cari apa kamu?.</h3>
+<h3 align="center">Sedang cari apa kamu?</h3>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
