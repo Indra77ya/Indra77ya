@@ -1,12 +1,6 @@
 <h1 align="center">Halo 👋, Saya Indra Nur Utomo</h1>
 <h3 align="center">Sedang cari apa kamu?</h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=indra77ya" alt="indra77ya" />
-  </a>
-</p>
-
 - 🔭 Saat ini saya sedang mengerjakan **Website untuk media pembelajaran anak-anak**  
 - 🌱 Saat ini saya sedang mempelajari **Kehidupan**  
 - 📫 Hubungi saya di **Indra77ya@gmail.com**  
