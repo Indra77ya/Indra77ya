@@ -1,7 +1,7 @@
 <h1 align="center">Halo 👋, Saya Indra Nur Utomo</h1>
 <h3 align="center">Sedang cari apa kamu?</h3>
 
-- 🔭 Saat ini saya sedang mengerjakan **Aplikasi E-Koperasi**  
+- 🔭 Saat ini saya sedang mengerjakan **Aplikasi E-Koperasi, Sistem Manajemen Kost dan POS**  
 - 🌱 Saat ini saya sedang mempelajari **Kehidupan**  
 - 📫 Hubungi saya di **Indra77ya@gmail.com**  
 
