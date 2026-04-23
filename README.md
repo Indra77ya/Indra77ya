@@ -24,7 +24,7 @@
 *Platform operasional boarding house multi-cabang terpadu.*
 > **Fitur:** Dashboard Multi-Admin, Manajemen Kamar & Penghuni, Billing Otomatis.
 
-### [E-Koperasi] (https://github.com/Indra77ya/e-koperasi) Aplikasi E-Koperasi
+### [E-Koperasi] (https://github.com/Indra77ya/e-koperasi) (Aplikasi E-Koperasi)
 *Solusi digital untuk transparansi dan efisiensi manajemen koperasi.*
 
 </div>
