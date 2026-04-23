@@ -9,7 +9,7 @@
 
 ---
 
-## 🔭 Sedang Dikerjakan (Active Projects)
+## Sedang Dikerjakan (Active Projects)
 
 </div>
 
