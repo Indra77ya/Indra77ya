@@ -24,7 +24,7 @@
 *Platform operasional boarding house multi-cabang terpadu.*
 > **Fitur:** Dashboard Multi-Admin, Manajemen Kamar & Penghuni, Billing Otomatis.
 
-### Aplikasi E-Koperasi
+### [E-Koperasi] (https://github.com/Indra77ya/e-koperasi) Aplikasi E-Koperasi
 *Solusi digital untuk transparansi dan efisiensi manajemen koperasi.*
 
 </div>
@@ -33,7 +33,7 @@
 
 <div align="center">
 
-## 🛠️ Bahasa Pemrograman & Alat
+## Bahasa Pemrograman & Alat
 
 <p align="center">
   <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>
