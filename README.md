@@ -15,16 +15,16 @@
 
 <div align="left">
 
-### 🛒 [Hassa POS](https://github.com/Indra77ya/HassaPOS) (Point of Sales System)
+### [Hassa POS](https://github.com/Indra77ya/HassaPOS) (Point of Sales System)
 *Sistem kasir pintar untuk manajemen ritel dan stok opname.*
 > **Fitur:** Manajemen Inventori, Barcode Scanner Integration, Laporan Penjualan Real-time, & Manajemen Supplier.
 > **Status:** Pengembangan Fitur & Optimasi.
 
-### 🏠 [SimKos](https://github.com/Indra77ya/simkos) (Sistem Manajemen Kost)
+### [SimKos](https://github.com/Indra77ya/simkos) (Sistem Manajemen Kost)
 *Platform operasional boarding house multi-cabang terpadu.*
 > **Fitur:** Dashboard Multi-Admin, Manajemen Kamar & Penghuni, Billing Otomatis.
 
-### 👥 Aplikasi E-Koperasi
+### Aplikasi E-Koperasi
 *Solusi digital untuk transparansi dan efisiensi manajemen koperasi.*
 
 </div>
@@ -51,7 +51,7 @@
 
 ---
 
-## 📈 Statistik & Aktivitas
+## Statistik & Aktivitas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Indra77ya&show_icons=true&theme=radical&hide_border=true" alt="Indra77ya Stats" />
@@ -59,7 +59,7 @@
 
 ---
 
-## 📫 Terhubung Dengan Saya
+## Terhubung Dengan Saya
 
 <p align="center">
   <a href="mailto:indra77ya@gmail.com"><img src="https://img.shields.io/badge/Email-indra77ya@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
