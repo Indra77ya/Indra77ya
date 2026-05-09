@@ -1,7 +1,7 @@
 <div align="center">
 
 # Halo 👋, Saya Indra Nur Utomo
-### Fullstack Web Developer | Laravel & POS Specialist
+### Fullstack Web Developer
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Indra77ya&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Indra77ya Views" />
